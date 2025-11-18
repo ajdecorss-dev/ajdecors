@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": "m1",
+      "title": "Floral Magnet",
+      "priceCents": 19900,
+      "discountedCents": 14900,
+      "img": "assets/img/mag1.svg",
+      "desc": "Bright floral magnet"
+    },
+    {
+      "id": "m2",
+      "title": "Retro Magnet",
+      "priceCents": 24900,
+      "discountedCents": 19900,
+      "img": "assets/img/mag2.svg",
+      "desc": "Vintage style magnet"
+    },
+    {
+      "id": "m3",
+      "title": "Minimal Magnet",
+      "priceCents": 17900,
+      "discountedCents": 13900,
+      "img": "assets/img/mag3.svg",
+      "desc": "Simple and elegant"
+    },
+    {
+      "id": "m4",
+      "title": "Golden Magnet",
+      "priceCents": 29900,
+      "discountedCents": 24900,
+      "img": "assets/img/mag4.svg",
+      "desc": "Premium golden finish"
+    }
+  ]
+}
